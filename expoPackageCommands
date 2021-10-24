@@ -1,3 +1,4 @@
+npm install --global expo cli
 npm install react-native-reanimated
 npm install react-native-gesture-handler
 npm install react-native-elements
@@ -20,7 +21,14 @@ expo install expo-image-picker
 npm add react-navigation-drawer
 (npm add react-native-drawer)
 npm add react-navigation-stack
+npm install react-native-responsive-fontsize
 
+npm install react-native-safe-area-context
+npm install @react-navigation/native/stack
+npm install @react-native-community/masked-view
+npm install -g yarn
+expo install react-native-maps
+npm add axios
 
 npm audit
 npm audit fix
