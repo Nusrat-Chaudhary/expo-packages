@@ -1,0 +1,9 @@
+npm install react-native-reanimated
+npm install react-native-gesture-handler
+npm install react-native-elements
+npm install react-native-navigation
+npm install react-navigation
+npm install react-navigation-tabs
+npm install react-navigation-tabs --force
+npm install react-native-screens
+
