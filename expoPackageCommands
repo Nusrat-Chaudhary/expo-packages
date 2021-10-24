@@ -1,9 +1,36 @@
 npm install react-native-reanimated
 npm install react-native-gesture-handler
 npm install react-native-elements
+(npm install react-native-elements@1.2.7/2.2.1 (--force))
 npm install react-native-navigation
 npm install react-navigation
 npm install react-navigation-tabs
 npm install react-navigation-tabs --force
 npm install react-native-screens
+npm install firebase
+(npm install firebase@7.9.0 --save --force)
+
+
+
+npm install expo-barcode-scanner
+npm install expo-permissions
+npm install react-native-swipe-list-view
+npm add lottie-react-native
+expo install expo-image-picker
+npm add react-navigation-drawer
+(npm add react-native-drawer)
+npm add react-navigation-stack
+
+
+npm audit
+npm audit fix
+expo update 35.0.0 (expo update 35.0.0 --npm) =>npm install react-native --force
+npm install --force
+expo start -c
+expo start -c web
+rm -rf node_modules
+rm package_lock.json
+npm cache verify
+npm cache clear --force
+
 
