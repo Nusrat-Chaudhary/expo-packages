@@ -30,6 +30,8 @@ npm install -g yarn
 expo install react-native-maps
 npm add axios
 
+
+
 npm audit
 npm audit fix
 expo update 35.0.0 (expo update 35.0.0 --npm) =>npm install react-native --force
