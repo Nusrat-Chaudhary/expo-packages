@@ -42,5 +42,5 @@ rm -rf node_modules
 rm package_lock.json
 npm cache verify
 npm cache clear --force
-
+node LTS version error, uninstall and install new version
 
