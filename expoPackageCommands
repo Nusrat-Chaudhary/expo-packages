@@ -1,6 +1,6 @@
 node --version
 npm --version
-npm install --global expo cli
+npm install --global expo-cli
 npm install react-native-reanimated
 npm install react-native-gesture-handler
 npm install react-native-elements
