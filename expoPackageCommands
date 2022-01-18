@@ -37,6 +37,8 @@ npm add @react-navigation/bottom-tabs
 expo install @react-native-community/masked-view
 npm add @react-navigation/native
 npm add @react-navigation/drawer
+npm add @react-navigation/material-bottom-tabs react-native-paper
+npm add react-native-responsive-fontsize
 
 
 
