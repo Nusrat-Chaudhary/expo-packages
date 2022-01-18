@@ -39,6 +39,8 @@ npm add @react-navigation/native
 npm add @react-navigation/drawer
 npm add @react-navigation/material-bottom-tabs react-native-paper
 npm add react-native-responsive-fontsize
+expo install expo-font
+expo install expo-app-loading
 
 
 
